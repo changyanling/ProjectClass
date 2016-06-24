@@ -8,8 +8,8 @@ s.authors  = { 'haha' }
 s.source   = { :git => 'https://github.com/changyanling/ProjectClass.git', :tag => s.version, :submodules => true }
 s.requires_arc = true
 
-s.public_header_files = 'iOSTest/SplashViewController.h'
-s.source_files = 'iOSTest/SplashViewController.{h,m}'
+s.public_header_files = 'ProjectClass/SplashViewController.h'
+s.source_files = 'ProjectClass/SplashViewController.{h,m}'
 
 end
 

@@ -9,7 +9,7 @@ s.source   = { :git => 'https://github.com/changyanling/ProjectClass.git', :tag 
 s.requires_arc = true
 
 s.public_header_files = 'ProjectClass/SplashViewController.h'
-s.source_files = 'ProjectClass/SplashViewController.m'
+s.source_files = 'ProjectClass/SplashViewController.{h,m}'
 
 end
 
